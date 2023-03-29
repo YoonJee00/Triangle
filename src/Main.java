@@ -1,5 +1,3 @@
-// 강사님이 풀어주신 문제
-
 import java.util.Scanner;
 
 class Point {
